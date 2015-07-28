@@ -152,7 +152,7 @@ NORFLASH 	|	MODECHANGE   | Yes  		|	Yes          | 008NORFLASH003ALL008333333330
 The following boot types are known to exist:
 
 Boot Type 	| Tested | Booted |	What it does
----------------------|--------------|---------------------
+----------------|-----|--------------|---------------------
 Recovery 	| Yes	 | Yes			 |Boots the recovery partion on the Internal SD Card    
 NORFLASH 	| Yes	 | Yes			 |Boots the EasyRecovery Partition stored on the NorFlash (UBoot) 
 
@@ -162,7 +162,7 @@ The following commands are known to exist:
 Command 	| Tested	| Booted   |What it does
 ------------|----------|-----------------|-----------------------
 AllUpdate 	| Yes		| Yes 			  | Enables you to force an update like a regular NEX Update 
-COPYDEVICE 	| Yes		| No			  | Copies an external device directly to the Internal Sd Card  **(Unsure)**
+COPYDEVICE 	| Yes		| No			  | Copies an external device directly to the Internal Sd Card **(Unsure)**
 MODECHANGE 	| Yes		| Yes			  | Changes a mode of somesort  **(Unsure)**
 
 
