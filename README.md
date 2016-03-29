@@ -1,6 +1,7 @@
 # AVIC-NEX
 A guide and discussion place for modding the AVIC NEX
 
+[![Slack Status](https://avicsignup.herokuapp.com/badge.svg)](https://avicsignup.herokuapp.com)
 
 **The contributors to this repository take no liabilty to any damage you may cause to your AVIC NEX by performing methods described here.**
 
